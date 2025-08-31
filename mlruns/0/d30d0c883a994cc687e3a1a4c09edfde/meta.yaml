@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d30d0c883a994cc687e3a1a4c09edfde/artifacts
+end_time: 1756656742752
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d30d0c883a994cc687e3a1a4c09edfde
+run_name: intrigued-squid-292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756656741288
+status: 3
+tags: []
+user_id: hp r5

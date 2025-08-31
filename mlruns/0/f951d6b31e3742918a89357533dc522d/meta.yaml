@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f951d6b31e3742918a89357533dc522d/artifacts
+end_time: 1756656948329
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f951d6b31e3742918a89357533dc522d
+run_name: serious-penguin-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756656947156
+status: 3
+tags: []
+user_id: hp r5

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/46f9668aaaa94e1cbac688b97a8c9450/artifacts
+end_time: 1756642440447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46f9668aaaa94e1cbac688b97a8c9450
+run_name: enthused-stork-183
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756642439037
+status: 3
+tags: []
+user_id: hp r5

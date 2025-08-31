@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/35b7d65b3ec94eb7bc5dd812dc1f4601/artifacts
+end_time: 1756641961186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35b7d65b3ec94eb7bc5dd812dc1f4601
+run_name: overjoyed-sloth-892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756641958817
+status: 4
+tags: []
+user_id: hp r5
