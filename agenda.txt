@@ -1,0 +1,7 @@
+Agenda
+1> Experiments overview
+2> DVC vs MLFLOW
+3> MLFlow for Data Science
+4> Code Demonstration.
+5> MLflow server architecture (AWS vs Dagshub)cloud setup
+6> Model Rregistry

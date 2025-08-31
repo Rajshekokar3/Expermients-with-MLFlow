@@ -1,0 +1,10 @@
+Preprocessing :- T1,T2,T3 Technique
+feature enginerring => T1,T2,T3
+Model-> ANN/ML 
+ml-> LR/Svm/DT
+
+DVC use for the data versioning  (initiate) ,DVC is use with Git ,UI is not that good
+
+MLflow work with indipendtly without git  -> differnt use functionality (one useing deep learning ,one machine learning ,othe ANN )
+--> Offer experiment Tracking 
+--> more famous for experiment tracking ,model resgistry and model Serving
