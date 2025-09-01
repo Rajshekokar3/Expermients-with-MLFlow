@@ -37,8 +37,8 @@ with mlflow.start_run():
     y_pred=rf.predict(x_test)
     accuracy_score=accuracy_score(y_test,y_pred)
 
-    mlflow.log_metric("accuracy",accuracy_score) #tracking APi
-    mlflow.log_param("max_depth",max_depth) 
+    mlflow.log_metric("accuracy",accuracy_score)
+    mlflow.log_param("max_depth",max_depth)
     mlflow.log_param("n_estimators",n_estimators)
 
     #Creating a confusion metrix plot 
@@ -54,13 +54,13 @@ with mlflow.start_run():
     plt.savefig("Confusion-metrix.png")
 
     #log artifcat using mlflow
-    mlflow.log_artifact("Confusion-metrix.png")#tracking API log artifact
+    mlflow.log_artifact("Confusion-metrix.png")
     mlflow.log_artifact(__file__)
 
 
     # we can also add tags 
-    mlflow.set_tags({"Author":"Vikas",'Projects':"wine Classification"}) #trackng api
+    mlflow.set_tags({"Author":"Vikas",'Projects':"wine Classification"})
 
     #Logthe model 
-    mlflow.sklearn.log_model(rf, "random_forest")
+    mlflow.sklearn.log_models(rf,"random_forest")
     print(accuracy_score)

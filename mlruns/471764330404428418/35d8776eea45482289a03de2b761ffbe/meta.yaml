@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/471764330404428418/35d8776eea45482289a03de2b761ffbe/artifacts
+end_time: 1756748024576
+entry_point_name: ''
+experiment_id: '471764330404428418'
+lifecycle_stage: active
+run_id: 35d8776eea45482289a03de2b761ffbe
+run_name: bright-pug-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756748023887
+status: 4
+tags: []
+user_id: hp r5

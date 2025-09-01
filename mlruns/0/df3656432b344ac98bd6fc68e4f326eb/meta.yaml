@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/df3656432b344ac98bd6fc68e4f326eb/artifacts
+end_time: 1756747867154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df3656432b344ac98bd6fc68e4f326eb
+run_name: stylish-mole-959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756747855643
+status: 3
+tags: []
+user_id: hp r5

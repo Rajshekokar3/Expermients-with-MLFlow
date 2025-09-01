@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/471764330404428418/8245c855502d4123a6f458122e6e7717/artifacts
+end_time: 1756748084568
+entry_point_name: ''
+experiment_id: '471764330404428418'
+lifecycle_stage: active
+run_id: 8245c855502d4123a6f458122e6e7717
+run_name: bouncy-skink-954
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756748078899
+status: 3
+tags: []
+user_id: hp r5
